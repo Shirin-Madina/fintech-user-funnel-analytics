@@ -1,0 +1,8 @@
+fintech-user-funnel-analytics/
+├── data/
+├── notebooks/
+├── sql/
+├── src/
+├── dashboard/
+├── README.md
+└── requirements.txt
