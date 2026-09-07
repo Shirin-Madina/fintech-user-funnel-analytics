@@ -1,20 +1,26 @@
-fintech-user-funnel-analytics/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_funnel_analysis.ipynb
-│   ├── 03_user_segmentation.ipynb
-│   └── 04_conversion_prediction.ipynb
-│
-├── sql/
-│
-├── src/
-│
-├── dashboard/
-│
-├── README.md
-└── requirements.txt
+# Fintech User Funnel Analytics
+
+## Project Overview
+
+An end-to-end fintech analytics project investigating user
+drop-off throughout the customer activation funnel.
+
+## Objective
+
+Identify where users drop out of the fintech customer journey,
+understand the factors associated with conversion, and develop
+data-driven recommendations.
+
+## Tools
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Plotly
+- Power BI
+
+## Project Status
+
+🚧 In progress
